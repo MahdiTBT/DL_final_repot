@@ -1,0 +1,28 @@
+# Dataset for Deep Learning Crack Propagation Detection
+
+Due to the size of the dataset, it cannot be included in this repository. Please follow the instructions below to download and set up the dataset required for this project.
+
+---
+
+## Dataset Reference
+
+The dataset used in this project is provided by:
+
+**Komninos, P., Verraest, A.E.C., Eleftheroglou, N., Zarouchas, D.**  
+*"Intelligent fatigue damage tracking and prognostics of composite structures utilizing raw images via interpretable deep learning."*  
+**Mendeley Data, V4, 2024.**  
+DOI: [10.17632/ky3gb8rk9h.4](https://doi.org/10.17632/ky3gb8rk9h.4)
+
+Please cite this dataset if you use it in your work.
+
+---
+
+## Download Instructions
+
+1. **Dataset Download Link**:
+   - [Download Dataset Here (3.41 GB)](https://drive.google.com/file/d/1I1nglc4geSkwYYDh3g75qv-WxYuJic-b/view?usp=drive_link)
+
+2. **Unzip the Dataset**:
+   After downloading the dataset, unzip the file into the project directory. You can use the following command:
+   ```bash
+   unzip dataset.zip -d ./data/
