@@ -113,7 +113,7 @@ Please cite this dataset if you use it in your work.
 
 ## Results
 
-- **Test Accuracy**: **[Add Accuracy Here]%**
+- **Test Accuracy**: **87.88 %**
 - **Confusion Matrix**:
 
   ![Confusion Matrix](confusion_matrix.png)
